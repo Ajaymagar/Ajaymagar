@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaymagar&label=Profile%20views&color=0e75b6&style=flat" alt="pop3ret" /> </p>
 
-- 📝 I regularly write articles on <a href="magarajay538.medium.com">ajay</a>
+- 📝 I regularly write articles on [ajay@medium](magarajay538.medium.com)
 
 - 💬 Ask me about **Offensive Security** and **Hacking**
 
