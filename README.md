@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **magarajay538@gmail.com**
 
-               • Security Consultant At Paytail
+               • Security Consultant At Devrev
 
 • Providing security reviews early in the development stages of products.
 
